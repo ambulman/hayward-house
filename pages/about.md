@@ -14,14 +14,19 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+This is a collection of photographs documenting the life of the roommates and friends of 524 Hayward Ave in Ames Iowa from 1999-2003. Roommates include:
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
+- Angela Bulman
+- Julie Stevens
+- Emilee Brent
+- Emily Bishop
+- Jill Bills
+- Amanda Sanders
+- Ellyn Grimm
+- Erin Messer
 
 The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
 
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+
