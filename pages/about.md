@@ -14,7 +14,7 @@ credits: true
 
 ## About the Collection
 
-This is a collection of photographs documenting the life of the roommates and friends of 524 Hayward Ave in Ames Iowa from 1999-2003. Roommates include:
+This is a collection of photographs documenting the life of the roommates and friends of 524 Hayward Ave in Ames Iowa from 1999-2003. It is coming up on 25 years of friendship for all of us who lived in the house on Hayward together. This collection commemorates the early years of our friendship; that time in our lives was very special and shaped us into who we are today.  Our friendship has and continues to have a lasting impression on us, and this collection allows us to look back at some of the things we did together and the time we shared all those years ago. Roommates include:
 
 - Angela Bulman
 - Julie Stevens
@@ -25,8 +25,6 @@ This is a collection of photographs documenting the life of the roommates and fr
 - Ellyn Grimm
 - Erin Messer
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
 
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
 
